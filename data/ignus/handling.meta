@@ -4,13 +4,13 @@
     <Item type="CHandlingData">
       <handlingName>IGNUS</handlingName>
       <fMass value="1860.0" />
-      <fInitialDragCoeff value="8.7" />
+      <fInitialDragCoeff value="5.7" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="-0.00000" z="-0.040000" />
       <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.600000" />
       <fDriveBiasFront value="0.485000" />
       <nInitialDriveGears value="7" />
-      <fInitialDriveForce value="0.36" />
+      <fInitialDriveForce value="0.40" />
       <fDriveInertia value="1.0" />
       <fClutchChangeRateScaleUpShift value="3.8" />
       <fClutchChangeRateScaleDownShift value="3.8" />

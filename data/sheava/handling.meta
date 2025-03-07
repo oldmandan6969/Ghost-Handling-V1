@@ -4,14 +4,14 @@
     <Item type="CHandlingData">
       <handlingName>SHEAVA</handlingName>
       <fMass value="1860.0" />
-			<fInitialDragCoeff value="8.7" />
+			<fInitialDragCoeff value="5.7" />
 			<fDownforceModifier value="0.0" />
 			<fPercentSubmerged value="85.0" />
 			<vecCentreOfMassOffset x="0.0" y="0.050000000745058" z="0.0" />
 			<vecInertiaMultiplier x="1.0" y="1.6000000238419" z="1.7000000476837" />
 			<fDriveBiasFront value="0.0" />
 			<nInitialDriveGears value="6" />
-			<fInitialDriveForce value="0.36" />
+			<fInitialDriveForce value="0.40" />
 			<fDriveInertia value="1.0" />
 			<fClutchChangeRateScaleUpShift value="3.8" />
 			<fClutchChangeRateScaleDownShift value="3.8" />

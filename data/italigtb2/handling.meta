@@ -4,14 +4,14 @@
     <Item type="CHandlingData">
       <handlingName>ITALIGTB2</handlingName>
       <fMass value="1860.0" />
-      <fInitialDragCoeff value="8.7" />
+      <fInitialDragCoeff value="5.7" />
       <fDownforceModifier value="0.0" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.050000" z="0.000000" />
       <vecInertiaMultiplier x="1.000000" y="1.600000" z="1.700000" />
       <fDriveBiasFront value="0.300000" />
       <nInitialDriveGears value="6" />
-      <fInitialDriveForce value="0.36" />
+      <fInitialDriveForce value="0.40" />
       <fDriveInertia value="1.0" />
       <fClutchChangeRateScaleUpShift value="3.8" />
       <fClutchChangeRateScaleDownShift value="3.8" />
