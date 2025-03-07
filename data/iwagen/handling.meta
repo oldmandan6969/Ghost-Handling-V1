@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHandlingDataMgr>
+  <HandlingData>
+    <Item type="CHandlingData">
+      <handlingName>I-WAGEN</handlingName>
+      <fMass value="1200.0" />
+			<fInitialDragCoeff value="7.0" />
+			<fDownforceModifier value="0.0" />
+			<fPercentSubmerged value="85.0" />
+			<vecCentreOfMassOffset x="0.0" y="0.0" z="0.28999999165535" />
+			<vecInertiaMultiplier x="1.5499999523163" y="1.6000000238419" z="1.5" />
+			<fDriveBiasFront value="0.52" />
+			<nInitialDriveGears value="1" />
+			<fInitialDriveForce value="0.27" />
+			<fDriveInertia value="1.0" />
+			<fClutchChangeRateScaleUpShift value="1.7" />
+			<fClutchChangeRateScaleDownShift value="1.7" />
+			<fInitialDriveMaxFlatVel value="140.0" />
+			<fBrakeForce value="0.6" />
+			<fBrakeBiasFront value="0.65" />
+			<fHandBrakeForce value="0.335" />
+			<fSteeringLock value="36.0" />
+			<fTractionCurveMax value="2.05" />
+			<fTractionCurveMin value="1.75" />
+			<fTractionCurveLateral value="21.5" />
+			<fTractionSpringDeltaMax value="0.13" />
+			<fLowSpeedTractionLossMult value="0.7" />
+			<fCamberStiffnesss value="0.0" />
+			<fTractionBiasFront value="0.4989" />
+			<fTractionLossMult value="1.0" />
+			<fSuspensionForce value="2.25" />
+			<fSuspensionCompDamp value="1.65" />
+			<fSuspensionReboundDamp value="2.28" />
+			<fSuspensionUpperLimit value="0.11" />
+			<fSuspensionLowerLimit value="-0.125" />
+			<fSuspensionRaise value="0.0" />
+			<fSuspensionBiasFront value="0.48" />
+			<fAntiRollBarForce value="0.97" />
+			<fAntiRollBarBiasFront value="0.5015" />
+			<fRollCentreHeightFront value="0.505" />
+			<fRollCentreHeightRear value="0.5" />
+			<fCollisionDamageMult value="0.83" />
+			<fWeaponDamageMult value="0.05" />
+			<fDeformationDamageMult value="4.18" />
+			<fEngineDamageMult value="1.27" />
+			<fPetrolTankVolume value="80.0" />
+			<fOilVolume value="8.0" />
+			<fSeatOffsetDistX value="0.0" />
+			<fSeatOffsetDistY value="0.0" />
+			<fSeatOffsetDistZ value="0.0" />
+			<nMonetaryValue value="50000" />
+      <strModelFlags>400010</strModelFlags>
+      <strHandlingFlags>0</strHandlingFlags>
+      <strDamageFlags>20</strDamageFlags>
+      <AIHandling>AVERAGE</AIHandling>
+      <SubHandlingData>
+        <Item type="CCarHandlingData">
+           <strAdvancedFlags>8000000</strAdvancedFlags>
+          <fBackEndPopUpCarImpulseMult value="0.100000" />
+          <fBackEndPopUpBuildingImpulseMult value="0.030000" />
+          <fBackEndPopUpMaxDeltaSpeed value="0.600000" />
+        </Item>
+        <Item type="NULL" />
+        <Item type="NULL" />
+      </SubHandlingData>
+    </Item>
+  </HandlingData>
+</CHandlingDataMgr>
